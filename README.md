@@ -1,6 +1,7 @@
 **🚆 UK Train Rides Data Analysis**
 
 
+
 **📌 Project Overview**
 
 This project focuses on analyzing railway journey data to understand passenger behavior, ticket pricing, and operational performance.
@@ -12,6 +13,8 @@ The dataset includes information such as ticket class, payment method, journey s
 The main goal is to extract meaningful insights that can support better decision-making in transportation systems. 
 
 This project demonstrates real-world application of data analytics techniques.
+
+
 
 
 **🎯 Objectives**
@@ -27,6 +30,8 @@ Explore time-based trends in ticket purchases and revenue
 Perform univariate, bivariate, and multivariate analysis
 
 Create attractive and informative visualizations
+
+
 
 
 **📊 Dataset Information**
@@ -62,6 +67,7 @@ Date_of_Journey
 Time_of_Purchase
 
 
+
 **🛠️ Tools & Technologies Used**
 
 Python
@@ -77,6 +83,7 @@ Seaborn – Advanced and attractive visualizations
 Plotly – Interactive charts
 
 Jupyter Notebook – Development environment
+
 
 
 **🔧 Data Cleaning & Preprocessing**
@@ -96,6 +103,8 @@ Month and Year
 Total delay time in minutes
 
 Ensured data types were correctly assigned
+
+
 
 
 **📈 Exploratory Data Analysis (EDA)**
@@ -132,6 +141,8 @@ Monthly revenue trends
 
 Month-year analysis of ticket sales
 
+
+
 **📊 Visualizations Used**
 
 Bar Charts
@@ -157,6 +168,8 @@ Subplot Dashboards
 Interactive Plotly Charts
 
 All visualizations include proper titles, labels, legends, and color schemes for clarity.
+
+
 
 **🔍 Key Insights**
 
@@ -203,54 +216,95 @@ Refund requests are low
 Railcard usage is limited but offers potential for growth
 
 
+
+
 **📁 🔷 Repository Structure**
 
 uk-train-data-analysis/
 │
+
 ├── data/
+
 │   └── train_data.csv
+
 │
 ├── notebooks/
+
 │   └── eda_analysis.ipynb
+
 │
 ├── src/
+
 │   ├── data_cleaning.py
+
 │   ├── feature_engineering.py
+
 │   ├── visualization.py
+
 │   └── utils.py
+
 │
 ├── outputs/
+
 │   ├── charts/
+
 │   └── reports/
+
 │
 ├── requirements.txt
+
 ├── README.md
+
 └── .gitignore
+
+
+
 
 **📂 Project Structure**
 
 uk-train-data-analysis/
+
 │
 ├── data/
+
 ├── notebooks/
+
 ├── src/
+
 ├── outputs/
+
 ├── README.md
+
 ├── requirements.txt
+
+
+
 
 **🚀 How to Run the Project**
 
 Clone the repository:
+
 git clone https://github.com/Vijayakrishnantk/UK-Train-Rides-Data-Analysis-Using-Python
 
 Navigate to the project folder:
+
 cd uk-train-rides-data-analysis
 
 Install dependencies:
+
 pip install -r requirements.txt
 
 Run the Jupyter Notebook:
+
 jupyter notebook
+
+
+
+**🙌 Acknowledgment**
+
+Dataset provided by Maven Analytics Data Playground.
+
+
 
 **📌 Conclusion**
 
