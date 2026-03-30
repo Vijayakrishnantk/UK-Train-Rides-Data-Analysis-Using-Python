@@ -4,11 +4,11 @@
 
 **📌 Project Overview**
 
-This project focuses on analyzing railway journey data to understand passenger behavior, ticket pricing, and operational performance.
+This project focuses on analyzing railway journey data to understand passenger behavior, ticket pricing and operational performance.
 
 The analysis is performed using Python with powerful data analysis and visualization libraries.
 
-The dataset includes information such as ticket class, payment method, journey status, delay reasons, and pricing. 
+The dataset includes information such as ticket class, payment method, journey status, delay reasons and pricing. 
 
 The main goal is to extract meaningful insights that can support better decision-making in transportation systems. 
 
@@ -111,7 +111,7 @@ Ensured data types were correctly assigned
 
 🔹 Univariate Analysis
 
-Distribution of ticket class, payment method, and purchase type
+Distribution of ticket class, payment method and purchase type
 
 Ticket type and journey status distribution
 
@@ -167,7 +167,7 @@ Subplot Dashboards
 
 Interactive Plotly Charts
 
-All visualizations include proper titles, labels, legends, and color schemes for clarity.
+All visualizations include proper titles, labels, legends and color schemes for clarity.
 
 
 
@@ -309,7 +309,7 @@ Dataset provided by Maven Analytics Data Playground.
 **📌 Conclusion**
 
 This project successfully demonstrates how data analytics techniques can be applied to real-world transportation data. 
-It highlights patterns in customer behavior, pricing strategies, and operational performance. 
+It highlights patterns in customer behavior, pricing strategies and operational performance. 
 The findings provide valuable insights for improving efficiency and customer experience. 
 Data-driven decision-making can significantly enhance railway operations. 
-This project showcases practical skills in data cleaning, analysis, and visualization.
+This project showcases practical skills in data cleaning, analysis and visualization.
