@@ -217,69 +217,6 @@ Railcard usage is limited but offers potential for growth
 
 
 
-
-**📁 🔷 Repository Structure**
-
-uk-train-data-analysis/
-│
-
-├── data/
-
-│   └── train_data.csv
-
-│
-├── notebooks/
-
-│   └── eda_analysis.ipynb
-
-│
-├── src/
-
-│   ├── data_cleaning.py
-
-│   ├── feature_engineering.py
-
-│   ├── visualization.py
-
-│   └── utils.py
-
-│
-├── outputs/
-
-│   ├── charts/
-
-│   └── reports/
-
-│
-├── requirements.txt
-
-├── README.md
-
-└── .gitignore
-
-
-
-
-**📂 Project Structure**
-
-uk-train-data-analysis/
-
-│
-├── data/
-
-├── notebooks/
-
-├── src/
-
-├── outputs/
-
-├── README.md
-
-├── requirements.txt
-
-
-
-
 **🚀 How to Run the Project**
 
 Clone the repository:
